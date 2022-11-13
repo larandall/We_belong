@@ -1,5 +1,17 @@
+#+latex_class: blank
+#+latex_class_options:
+#+latex_header:
+#+latex_header_extra:
+#+description:
+#+keywords:
+#+subtitle:
+#+latex_engraved_theme:
+#+date: \today
+
+#+export_file_name: ../Chapters/Dignity_without_higher_and_lower
 * Dignity without higher and lower
 :PROPERTIES:
 :CUSTOM_ID: chap:dignity
 :END:
-Human dignity is a common moral
+Human dignity is a powerful moral idea. There is no intrinsic i
+is this i prose lint thing
