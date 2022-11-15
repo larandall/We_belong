@@ -1,0 +1,97 @@
+#+options: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+options: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+options: email:nil f:t inline:nil num:t p:nil pri:nil prop:nil stat:t tags:t
+#+options: tasks:t tex:t timestamp:t title:t toc:t todo:t |:t
+#+title: Introduction
+#+author: Avery Rose Randall
+#+email: l.avery.randall@gmail.com
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+cite_export:
+#+latex_class: blank
+#+latex_class_options:
+#+latex_header:
+#+latex_header_extra:
+#+description:
+#+keywords:
+#+subtitle:
+#+latex_engraved_theme:
+#+date: \today
+
+#+export_file_name: ../Chapters/Introduction
+
+* Contents                                                       :noexport:toc:
+- [[#introduction][Introduction]]
+  - [[#desires-and-evaluative-judgments][Desires and evaluative judgments]]
+  - [[#a-few-judgments][A few judgments.]]
+  - [[#what-is-a-thing][What is a thing?]]
+
+* Introduction
+:PROPERTIES:
+:CUSTOM_ID: ch:int
+:ID:       1e474d24-9ae2-4130-9665-3e9c8717df8a
+:END:
+
+This is a work of moral philosophy.
+I am setting out to provide moral foundations for a better world -- a world that
+is more caring and less cruel.
+I want to set out and defend basic moral tenets that vindicates the value of all
+living beings and the worlds that they live in.
+Central to this set of tenets is the view that nothing is to be treated as
+expendable
+
+** Desires and evaluative judgments
+- Desire ::
+** A few judgments.
+:PROPERTIES:
+:CUSTOM_ID: sec:judgments
+:END:
+
+# I am trying to build up a sort of ethical position. I don't know if I am
+# succeeding but it is going Ok.
+My moral position depends on a few moral, evaluative and practical
+judgments.
+The first two judgments are:
+1. My happiness is good in itself.
+2. My happiness is worth my care and my effort.
+The first of these judgments is primarily an evaluative judgment.
+It says that when I consider my own happiness, I view it as a good thing --
+not simply as something that I want.
+I approve of it.
+
+What does this mean, and how might I justify it?
+
+To see what this means more clearly it will be helpful to take a step back.
+
+
+It tells me that the effort and care that I spend working on my
+
+3. [@3] The happiness of others is good in itself.
+4. The happiness of others is worth my care and effort.
+
+
+** What is a thing?
+:PROPERTIES:
+:CUSTOM_ID: sec:whatisthing
+:END:
+
+* Notes :noexport:
+There are several things that I want to do with this book.
+
+The most important thing, I think is to make a world that is less shit than the
+one that we are currently in.
+Sometimes, I just start writing because I don't knew what else to do.
+I am not sure that this is as helpful as it might otherwise be, but I do feel
+like it is at least one way for me to get going.
+There is no way that I can do this in a way that does not make me feel like I am
+destroying my own
+
+I find that the world is 
+** General goals
+1. I am writing this book because I want to make the world a little better.
+   I believe that regarding living beings as expendable is a fundamental part of
+   what makes the world problematic.
+2. This work is essentially a work of propaganda in the neutral sense of that
+   word, if such a sense exists.
+   I want to convince people that living beings are not expendable.

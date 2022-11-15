@@ -11,7 +11,9 @@
 #+export_file_name: ../Chapters/Dignity_without_higher_and_lower
 * Dignity without higher and lower
 :PROPERTIES:
-:CUSTOM_ID: chap:dignity
+:CUSTOM_ID: ch:dignity
 :END:
 Human dignity is a powerful moral idea. There is no intrinsic i
 is this i prose lint thing
+
+id:1e474d24-9ae2-4130-9665-3e9c8717df8a

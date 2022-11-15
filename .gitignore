@@ -13,3 +13,4 @@
 without.pdf
 .DS_Store
 *.html
+/Chapters/.auctex-auto/
