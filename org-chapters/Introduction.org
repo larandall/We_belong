@@ -43,6 +43,7 @@ expendable
 
 ** Desires and evaluative judgments
 - Desire ::
+  u
 ** A few judgments.
 :PROPERTIES:
 :CUSTOM_ID: sec:judgments
@@ -87,7 +88,7 @@ like it is at least one way for me to get going.
 There is no way that I can do this in a way that does not make me feel like I am
 destroying my own
 
-I find that the world is 
+I find that the world is
 ** General goals
 1. I am writing this book because I want to make the world a little better.
    I believe that regarding living beings as expendable is a fundamental part of
