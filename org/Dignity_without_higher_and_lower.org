@@ -1,14 +1,29 @@
+#+latex_class: blank
+#+latex_class_options:
+#+latex_header:
+#+latex_header_extra:
+#+description:
+#+keywords:
+#+subtitle:
+#+latex_engraved_theme:
+#+date: \today
+#+filetags: :autocompile:
+#+export_file_name: ~/Dropbox/Essays/Without_things/Chapters/Dignity_without_higher_and_lower
 
-\chapter{Dignity without higher and lower?}
-\label{ch:dignity}
+* Dignity without higher and lower?
+:PROPERTIES:
+:CUSTOM_ID: ch:dignity
+:END:
+
+
 Appeals to human dignity are both broadly appealing and rhetorically powerful.
-Part of the reason that they are so broadly appealing is that the term \emph{human
-dignity} can be imbued with a wide variety of meanings.
+Part of the reason that they are so broadly appealing is that the term /human
+dignity/ can be imbued with a wide variety of meanings.
 A person can claim that all human beings have dignity or claim that a particular
 social arrangement or action is inconsistent with human dignity without
-specifying precisely what they mean by \emph{dignity} or what gives human beings
+specifying precisely what they mean by /dignity/ or what gives human beings
 dignity.
-This does not mean that \emph{human dignity} has no meaning or that it can mean
+This does not mean that /human dignity/ has no meaning or that it can mean
 whatever the speaker wants it to mean.
 Rather, the term refers to a constellation of moral and ethical concepts.
 

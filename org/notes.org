@@ -1,0 +1,21 @@
+#+options: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+options: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+options: email:nil f:t inline:nil num:t p:nil pri:nil prop:nil stat:t tags:t
+#+options: tasks:t tex:t timestamp:t title:t toc:t todo:t |:t
+#+title: notes
+#+author: Avery Rose Randall
+#+email: l.avery.randall@gmail.com
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 28.1 (Org mode 9.6)
+#+cite_export:
+* Notes
+** On the commodification of desire.
+Capitalism debases human beings both as producers and as consumers.
+Human beings work, and human beings have needs and desires that they fulfill
+both through their own work and through the (willing or unwilling) aid of
+others.
+Capitalism exploits both workers and consumers in the service of growth.
+One of the most pernicious features of contemporary capitalism is the way in
+which it makes desire and need
