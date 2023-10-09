@@ -2,7 +2,7 @@
 %!TEX encoding = UTF-8 Unicode
 \documentclass[parskip=half,
                fontsize=9pt,
-               % chapterprefix=true,
+               chapterprefix=true,
                numbers=noenddot,
                bibliography=totoc]{scrbook}
 
@@ -52,7 +52,7 @@
 \usepackage{mathtools}              % More math symbols and environments
 \usepackage{fontspec}               % Selecting fonts
 \usepackage{unicode-math}           % Use unicode math font, not TeX
-\usepackage[main=english,dutch,spanish]{babel}         % Correct hyphenation
+\usepackage[main=english,german]{babel}         % Correct hyphenation
 \usepackage{subfig}                 % Subfigures
 \usepackage{booktabs}               % Nicer tables
 \usepackage{xcolor}                 % Colours in text
@@ -67,7 +67,7 @@
             allcolors=greenforlinks,
             pagebackref,
             linktoc=all,
-            pdftitle={A world without things},
+            pdftitle={We belong to ourselves and one another},
             pdfauthor={Avery Rose Randall}]{hyperref}  % Hyperlinks
 \usepackage{bookmark}               % Add things in TOC
 % \usepackage{showframe}              % Frames to easily set up page layout
@@ -180,7 +180,7 @@
 \setmainfont[Ligatures=TeX]{Minion Pro}
 \setmonofont{Triplicate A}
 \setmathfont{Asana-Math.otf}
-\newfontfamily\fanciestfont[Ligatures={TeX,Discretionary}]{Minion Pro}
+\newfontfamily\fanciestfont[Ligatures={TeX}]{Minion Pro}
 \newfontfamily\fancyfont[Ligatures=TeX]{Minion Pro}
 \newfontfamily\chapternumberfont[Ligatures=TeX,Numbers=Lining]{Minion Pro}
 \addtokomafont{disposition}{\fancyfont}
@@ -325,7 +325,7 @@
 
 % Half-title
 \author{Avery Rose Randall}
-\title{A world without things \\ Essays in moral philosophy}
+\title{We belong to ourselves and one another \\ Essays in moral philosophy}
 \date{}
 \maketitle
 % TODO update the colophon
@@ -390,7 +390,6 @@
   {}
 }
 
-\include{Chapters/Introduction}
 
 % \setpartpreamble{
 %   \vspace{3cm}
@@ -404,39 +403,25 @@
             inner=2.1835cm,
             outer=2.1835cm,
             ignoremp}
-\part{Historical background and moral foundations}
+\part{Philosophical foundations}
 \label{pa:representation}
 \restoregeometry%
-% The underlying 3D simplicial complex in the representation of a cube as a 3D generalised map.
-\include{Chapters/Social_and_legal_relationships}
-\include{Chapters/Dignity_without_higher_and_lower}
+\include{Chapters/Introduction}
+\include{Chapters/Basic_philosophical_commitments}
+% \include{Chapters/Dignity_without_higher_and_lower}
 
-\chapter{Treating all like others}
-As we see in \refse{se:weird}\citep{kantcritiquepower2000}
-\chapter{All the world is a stage}
-\label{ch:stage}
-\section{weird shit}
-\label{se:weird}
-%\input{math}
-
-%\input{modelling-background}
-
-%\input{nd-modelling}
-
-% \setpartpreamble{
-%   \vspace{5cm}
-%   \includegraphics[width=\linewidth]{figs/extrusion-steps}
-% }
 
 \newgeometry{top=2.170cm,
             bottom=3.510cm,
             inner=2.1835cm,
             outer=2.1835cm,
             ignoremp}
-\part{Constructing and manipulating objects}
-\label{pa:operations}
+\part{A world without things: \\ Reflections on private property}
+\label{pa:Without_things}
+\include{Chapters/Social_and_legal_relationships}
 \restoregeometry%
 
+\include{Chapters/Social_and_legal_relationships}
 %\input{operations-background}
 
 %\input{extrusion}

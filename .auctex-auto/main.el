@@ -1,26 +1,25 @@
 (TeX-add-style-hook
- "Without"
+ "main"
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("scrbook" "parskip=half" "fontsize=9pt" "chapterprefix=true" "numbers=noenddot" "bibliography=totoc")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("geometry" "includemp" "paperwidth=18.90cm" "paperheight=24.58cm" "top=2.170cm" "bottom=3.510cm" "inner=2.1835cm" "outer=2.1835cm" "marginparwidth=4cm" "marginparsep=0.4cm") ("babel" "main=english" "dutch" "spanish") ("hyperref" "xetex" "unicode" "breaklinks=true" "colorlinks=true" "allcolors=greenforlinks" "pagebackref" "linktoc=all" "pdftitle={A world without things}" "pdfauthor={Avery Rose Randall}") ("caption" "hypcap=true") ("snotez" "footnote") ("algorithm2e" "linesnumbered" "ruled" "vlined") ("natbib" "square")))
+                     '(("geometry" "includemp" "paperwidth=18.90cm" "paperheight=24.58cm" "top=2.170cm" "bottom=3.510cm" "inner=2.1835cm" "outer=2.1835cm" "marginparwidth=4cm" "marginparsep=0.4cm") ("babel" "main=english" "german") ("hyperref" "xetex" "unicode" "breaklinks=true" "colorlinks=true" "allcolors=greenforlinks" "pagebackref" "linktoc=all" "pdftitle={We belong to ourselves and one another}" "pdfauthor={Avery Rose Randall}") ("caption" "hypcap=true") ("snotez" "footnote") ("algorithm2e" "linesnumbered" "ruled" "vlined") ("natbib" "square")))
    (add-to-list 'LaTeX-verbatim-environments-local "lstlisting")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "lstinline")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
-   (add-to-list 'LaTeX-verbatim-macros-with-delims-local "lstinline")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "lstinline")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
+   (add-to-list 'LaTeX-verbatim-macros-with-delims-local "lstinline")
    (TeX-run-style-hooks
     "latex2e"
     "Chapters/Introduction"
+    "Chapters/Basic_philosophical_commitments"
     "Chapters/Social_and_legal_relationships"
-    "Chapters/Dignity_without_higher_and_lower"
     "scrbook"
     "scrbook10"
     "geometry"
@@ -73,9 +72,7 @@
     "cf")
    (LaTeX-add-labels
     "pa:representation"
-    "ch:stage"
-    "se:weird"
-    "pa:operations"
+    "pa:Without_things"
     "thesis:back")
    (LaTeX-add-bibliographies
     "My-Library")

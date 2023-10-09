@@ -19,65 +19,73 @@
 #+latex_engraved_theme:
 #+date: \today
 
+#+filetags: :autocompile:
 #+export_file_name: ../Chapters/Introduction
 
-* Contents                                                       :noexport:toc:
+* Contents                                                            :noexport:toc:
 - [[#introduction][Introduction]]
+  - [[#some-claims-about-metathics][Some claims about metathics]]
   - [[#desires-and-evaluative-judgments][Desires and evaluative judgments]]
   - [[#a-few-judgments][A few judgments.]]
   - [[#what-is-a-thing][What is a thing?]]
 
 * Introduction
-:PROPERTIES:
-:CUSTOM_ID: ch:int
-:ID:       1e474d24-9ae2-4130-9665-3e9c8717df8a
-:END:
+  :PROPERTIES:
+  :CUSTOM_ID: ch:int
+  :ID:       1e474d24-9ae2-4130-9665-3e9c8717df8a
+  :END:
 
-This is a work of moral philosophy.
-I am setting out to provide moral foundations for a better world -- a world that
-is more caring and less cruel.
-I want to set out and defend basic moral tenets that vindicates the value of all
-living beings and the worlds that they live in.
-Central to this set of tenets is the view that nothing is to be treated as
-expendable
+  This is a work of moral philosophy.
+  I am setting out to provide moral foundations for a better world -- a world that
+  is more caring and less cruel. @@comment: This sounds really pompous.@@
+  I want to set out and defend basic moral tenets that vindicates the value of all
+  living beings and the worlds that they live in.
+  Central to this set of tenets is the view that nothing is to be treated as
+  expendable---nothing to be regarded "merely a thing."
+
+** Some claims about metathics
+
+   1) Ethical claims are normative claims.
 
 ** Desires and evaluative judgments
-- Desire ::
-  u
+   - Desire ::
+     u
+
 ** A few judgments.
-:PROPERTIES:
-:CUSTOM_ID: sec:judgments
-:END:
+   :PROPERTIES:
+   :CUSTOM_ID: sec:judgments
+   :END:
 
-# I am trying to build up a sort of ethical position. I don't know if I am
-# succeeding but it is going Ok.
-My moral position depends on a few moral, evaluative and practical
-judgments.
-The first two judgments are:
-1. My happiness is good in itself.
-2. My happiness is worth my care and my effort.
-The first of these judgments is primarily an evaluative judgment.
-It says that when I consider my own happiness, I view it as a good thing --
-not simply as something that I want.
-I approve of it.
+   # I am trying to build up a sort of ethical position. I don't know if I am
+   # succeeding but it is going Ok.
+   My moral position depends on a few moral, evaluative and practical judgments.
+   The first two judgments are:
+   1) My happiness is good in itself.
+   2) My happiness is worth my care and my effort.
+   The first of these judgments is primarily an evaluative judgment.
+   It says that when I consider my own happiness, I view it as a good thing---not
+   simply as something that I want.
+   I approve of it.
+   The second is a practical judgment: a judgment about what I am to do, or ought to
+   do, or what is worth doing.
 
-What does this mean, and how might I justify it?
+   Let's take a closer look at what this mea
 
-To see what this means more clearly it will be helpful to take a step back.
+   To see what this means more clearly it will be helpful to take a step back.
 
 
-It tells me that the effort and care that I spend working on my
+   It tells me that the effort and care that I spend working on my
 
-3. [@3] The happiness of others is good in itself.
-4. The happiness of others is worth my care and effort.
+   3) [@3] The happiness of others is good in itself.
+   4) The happiness of others is worth my care and my effort.
 
 
 ** What is a thing?
-:PROPERTIES:
-:CUSTOM_ID: sec:whatisthing
-:END:
+   :PROPERTIES:
+   :CUSTOM_ID: sec:whatisthing
+   :END:
 
-* Notes :noexport:
+* Notes                                                                   :noexport:
 There are several things that I want to do with this book.
 
 The most important thing, I think is to make a world that is less shit than the

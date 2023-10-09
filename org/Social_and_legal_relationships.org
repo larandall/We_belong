@@ -1,0 +1,162 @@
+#+options: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+options: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+options: email:nil f:t inline:nil num:t p:nil pri:nil prop:nil stat:t tags:t
+#+options: tasks:t tex:t timestamp:t title:t toc:t todo:t |:t
+#+title: Introduction
+#+author: Avery Rose Randall
+#+email: l.avery.randall@gmail.com
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+cite_export: natbib
+#+latex_class: blank
+#+latex_class_options:
+#+latex_header:
+#+latex_header_extra:
+#+description:
+#+keywords:
+#+subtitle:
+#+latex_engraved_theme:
+#+date: \today
+
+#+export_file_name: ../Chapters/Social_and_legal_relationships
+#+filetags: :autocompile:
+
+* Social and legal relationships
+  :PROPERTIES:
+  :CUSTOM_ID: cha:soci-legal-relat
+  :END:
+  One of the key aims of this project is to examine the structures of power and
+  obligation that are created or presupposed by the institution of private property.
+  In this chapter, I will set out some of the analytical tools that I use to do
+  this.
+  Specifically, I will provide some vocabulary for discussing two types of
+  phenomena:
+
+  1) Relationships of obligation and accountability.
+
+  2) The power to transform such relationships.
+
+  These two sorts of phenomena play key roles in shaping the normative terrain of a
+  society.
+
+  I borrow some of these tools from W. N. Hohfeld's, seminal two-part essay, /Some
+  fundamental legal relations in judicial reasoning/
+  [cite/noauthor:@hohfeldfundamentallegal1913; @hohfeldfundamentallegal1917].
+  In this essay Hohfeld sets out several basic legal relationships and defines them
+  in terms of one another [cite/noauthor:@hohfeldfundamentallegal1913 pp.
+  28–59]
+
+  Hohfeld's analytical tools are best suited to examining legal systems, and moral
+  systems and social arrangements that mirror the normative structure of legal
+  systems.
+
+  As I said, in Chapter 1, there are many ways to model and conceive of moral and
+  social relationships.
+
+** Duties and claims
+   :PROPERTIES:
+   :CUSTOM_ID: sec:duties-claims
+   :END:
+   A central feature of moral life in communities is the notion that there are
+   certain things that we owe to one another, and certain things that other people
+   can claim from us as their due.
+   This generally, is what we speak about when we talk about duties and claims.
+   Philosophers often argue about what precisely what features are necessary for
+   duties.
+
+*** Relationships of obligation and accountability
+    :PROPERTIES:
+    :CUSTOM_ID: sec:obl-acc
+    :END:
+    There are many ways to model these relationships.
+    Philosophers
+
+** Legal powers
+   :PROPERTIES:
+   :CUSTOM_ID: sec:legal-powers
+   :END:
+
+   #+begin_quote
+   A change in a given legal relation may result (1) from some superadded fact or
+   group of facts not under the volitional control of a human being (or human
+   beings); or (2) from some superadded fact or group of facts which are under the
+   volitional control of one or more human beings.
+   As regards the second class of cases, the person (or persons) whose volitional
+   control is paramount may be said to have the (legal) power to effect the
+   particular change of legal relations that is involved in the problem.
+   [cite:@hohfeldfundamentallegal1913 p.
+   44]
+
+   #+end_quote
+
+** Formal tools
+   :PROPERTIES:
+   :CUSTOM_ID: sec:formal-tools
+   :END:
+*** Hohfeld's taxonomy of basic legal relationships
+    :PROPERTIES:
+    :CUSTOM_ID: sec:hohf-taxon
+    :END:
+    In his seminal two part essay, , W. N. Hohfeld
+    [cite/noauthor:@hohfeldfundamentallegal1913; @hohfeldfundamentallegal1917] sets
+    out to provide precise definitions of several basic legal concepts, as an
+    antidote for what he sees and sloppy legal reasoning.
+    In the first of these essays, he defines two sets of four types of legal relationships in terms
+    of their logical relationships with one another.
+    These definitions provide a helpful way to examine the formal structure of legal
+    systems and other moral and social arrangements.
+
+    Hohfeld's first tetrad of legal relationships can be used to model the legal
+    duties that persons owe one another under specific legal systems.
+    It is organized around the idea of a legal duty that one person has to another
+    person to perform or omit some action.
+    According to Hohfeld's taxonomy, this duty corresponds to a claim that the
+    latter bears against the former.
+    Specifically, the claim that the former perform or omit the relevant
+    action.[fn:1]
+    So if, for instance, Sarandon has a legal duty to Davis not to drive Davis off of
+    a cliff, then Davis has a claim against Sarandon, that Sarandon not drive heroff
+    of a cliff.
+    However, if Sarandon has no legal duty to Davis not to drive Davis off of a
+    cliff, then Davis has no legal claim against Sarandon that Sarandon not drive
+    her off of a cliff.
+    /The liberty to perform some action is not limited to those c/
+
+    More formally, given any two persons, /A/ and /B/, and any action or omission,
+    \(\phi\): \[\begin{aligned} \text{\emph{A} has a duty to \emph{B} to }\phi\:
+    \veebar\: \text{\emph{A} has no duty to \emph{B} to }\phi.
+    \\ \text{\emph{B} has a claim on \emph{A} that \emph{A} }\phi{}\: \veebar\:
+    \text{\emph{B} has no claim on \emph{A} that \emph{A} }\phi{}.
+    \\ \text{\emph{A} has a duty to \emph{B} to }\phi \iff \text{\emph{B} has a
+    claim on \emph{A} that \emph{A} }\phi.
+    \\ \text{\emph{A} has no duty to \emph{B} to }\phi \iff \text{ \emph{B} has no
+    claim on \emph{A} that \emph{A} }\phi.
+    \end{aligned}\]
+
+    This consists of these four legal relationships:
+
+    - Duty :: A duty to another person to perform (or omit) a particular action.
+
+    - Claim :: A claim against another person that they perform (or omit) a
+      particular action.
+
+    - No duty :: No duty to another person to perform (or omit) a particular action.
+
+    - No claim :: No claim against another person that they perform or omit a
+      particular action.
+
+    Hohfeld and many of those who have adopted his basic taxonomy of legal
+    relationships, have given these legal relationships special names.
+    These names are often confusing, because, in ordinary legal parlance, they carry
+    implications that do not hold under Hohfeld's, rather minimal, definitions of
+    these terms.
+
+    (A has a duty to B to \(\phi\)).
+    (B has a claim against A that A \(\phi\))
+
+[fn:1] Hohfeld called these legal claims, /rights/, and he used the term /right/
+exclusively for this sort of legal relationship.
+Common usage supports using the term /right/ much more broadly, so I prefer to use
+the term or /claim right/ or simply /claim/ to refer to this more specific type of
+legal relationship.
