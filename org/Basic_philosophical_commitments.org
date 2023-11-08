@@ -22,7 +22,64 @@
 
 #+export_file_name: ../Chapters/Basic_philosophical_commitments
 #+filetags: :autocompile:
+
 * Basic philosophical commitments
-  It is difficult to say precisely what it is that I want to do here.
-  It feels strange because I just woke up an hour ago and ti already it is nearly
-  time to get ready for work.
+  :LOGBOOK:
+  CLOCK: [2023-10-09 Mon 07:00]--[2023-10-09 Mon 07:25] =>  0:25
+  :END:
+
+  I want to start this essay by setting out some basic features of my approach to
+  moral philosophy.
+  One of the most important features of my approach is a form of pragmatic pluralism
+  about both ontology and ethics.
+  @@comment: The gist of this position is that both morality and the world itself
+  are constructed by human beings through engagement with the world, and that there
+  aremore than one reasonable and good way to construct both.
+  @@ The gist of this position is that the world itself does not fully determine
+  either a singular true portrayal of the world, or a single correct set of ethical
+  beliefs.
+  Human beings create their understandings of the world and their ethical views
+  through active engagement with the world.
+  I believe both that their is more than one reasonable way to construe the world
+  and that some views reflect deep features of the world more effectively than
+  others, or are more useful than others in a variety of other ways.
+  Something similar is true of ethics.
+
+  I will explain the particular flavor of ontological pluralism that informs my
+  ethics and metaethics in \refse{sec:ont_plural}.
+  After this I will explain how I understand moral reasoning, in
+  \refse{sec:nat_mor}.
+
+** Ontological pluralism
+   :PROPERTIES:
+   :ID:       0de577ff-be19-4e7e-892b-586fc8d4c349
+   :CUSTOM_ID: sec:ont_plural
+   :END:
+   :LOGBOOK:
+   CLOCK: [2023-10-10 Tue 06:56]--[2023-10-10 Tue 07:26] =>  0:30
+   :END:
+
+   The funda
+
+** On the nature of morality and moral reasoning
+   :PROPERTIES:
+   :CUSTOM_ID: sec:nat_mor
+   :END:
+
+** Ethical and metaethical pluralism
+   :PROPERTIES:
+   :CUSTOM_ID: sec:eth_plural
+   :END:
+
+
+
+
+   There are at least four basic philosophical commitments that inform my approach.
+
+   I want to answer the question, what are we doing when we are doing moral
+   philosophy.
+
+* Foundational ethical commitments
+  :PROPERTIES:
+  :CUSTOM_ID: ch:eth_com
+  :END:
