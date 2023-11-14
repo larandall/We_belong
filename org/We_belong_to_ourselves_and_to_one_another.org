@@ -1,0 +1,53 @@
+#+TITLE: We belong to ourselves and to one another
+#+options: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+options: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+options: email:nil f:t inline:nil num:t p:nil pri:nil prop:nil stat:t tags:t
+#+options: tasks:t tex:t timestamp:t title:t toc:t todo:t |:t
+#+date: <2021-08-28 Sat>
+#+author: Avery Randall
+#+email: l.avery.randall@gmail.com
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport TOC notes
+#+creator: Emacs 28.0.50 (Org mode 9.5)
+#+cite_export:
+#+latex_class: article
+#+latex_class_options:
+#+latex_header:
+#+latex_header_extra:
+#+description:
+#+keywords:
+#+subtitle:
+#+latex_compiler: pdflatex
+#+date: \today
+
+* Contents :TOC:
+
+- [[#starting-points][Starting points]]
+  - [[#a-good-life-is-worth-my-effort][A good life is worth my effort]]
+  - [[#spaces][spaces]]
+
+* Connected Zettels :noexport:
+
+[[id:26b02fc0-05e6-48bf-b55e-0a864fb1ff32][We belong to ourselves and to one another]]
+
+* Starting points
+
+My moral philosophy begins with my own evaluative judgments.
+I take these not as definitive pronouncements of what is good, beautiful, and
+true, but as hunches to be interrogated.
+I examine these judgments in light of a wide range of other judgments,
+convictions, and hypotheses, about living beings, morality, and the world.
+This process of interrogation always happens in dialog with others, sometimes
+through actual face-to-face interactions and sometimes through correspondence,
+books, or imagined conversations.
+Other people's judgments, experiences, convictions, and hypotheses deserve careful
+consideration as well.
+In practice, this means that my moral views are always in the process of being
+constructed (or deconstructed).
+This openness feels fundamentally liberating.
+
+** A good life is worth my effort
+
+The starting point of
+
