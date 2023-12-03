@@ -98,7 +98,7 @@
    regularly interact with objects in my world (people make lamps and desks and
    use them to light their rooms or to write essays on).
    # It is useful to think of them as different types of physical objects because they
-   # I can arrange them in my room and  elp me to make sense of my experience.
+   # I can arrange them in my room and  help me to make sense of my experience.
    # They are all generic concepts that allow me to categorize a variety of distinct,
    # but similar objects.
    # These categories help me to understand my world and interact with it effectively.
@@ -111,19 +111,33 @@
    :CUSTOM_ID: sec:nat_mor
    :END:
 
+   One of the issues with this basic approach is that we don't re
+   I think that one of the key points to emphasize as I work to de
+
+
 ** Ethical and metaethical pluralism
    :PROPERTIES:
    :CUSTOM_ID: sec:eth_plur
    :END:
 
+*** On naturalism and moral realism                            :notes:moral:realism:
+    If we assume a basically naturalistic account of morality, we still have to
+    determine, as reasoning living beings, how we will approach our own moral
+    judgments.
+    We have to decide whether to take such judgments as genuinely binding and action
+    guiding.
+
+*** On universalism, happiness, pleasure, and impersonal goods
+    I think that happiness and pleasure are good, and that we can evaluate
+    moralities based on whether they promote the happiness and pleasure of living
+    beings generally.
 
 
 
+    There are at least four basic philosophical commitments that inform my approach.
 
-   There are at least four basic philosophical commitments that inform my approach.
-
-   I want to answer the question, what are we doing when we are doing moral
-   philosophy.
+    I want to answer the question, what are we doing when we are doing moral
+    philosophy.
 
 * Foundational ethical commitments
   :PROPERTIES:
