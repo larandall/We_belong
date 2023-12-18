@@ -72,12 +72,14 @@
    :CUSTOM_ID: sec:ont_plural
    :END:
    :LOGBOOK:
+   CLOCK: [2023-12-17 Sun 09:48]--[2023-12-17 Sun 16:06] =>  6:18
    CLOCK: [2023-10-10 Tue 06:56]--[2023-10-10 Tue 07:26] =>  0:30
    :END:
 
    There is no uniquely correct way to understand the world.
    When we seek to understand the world, we use concepts that we have inherited
-   from others or we develop our own.
+   from others or we develop our own by interacting in the world and sometimes, to
+   shape it to our purposes.
    These concepts give us ways to understand and interact with the world
    effectively.
    We use these concepts to model the world and to chop it into manageable bits
@@ -104,7 +106,17 @@
    # These categories help me to understand my world and interact with it effectively.
    # /Lamp/, /pine cone/, and /desk/ are useful concepts because they are all
 
-   This suggests that the concepts that 
+   This suggests that, assuming that human beings are a part of a real world and
+   interact with this world, concepts are shaped both by human cultures and by deep
+   features of reality itself.
+   Both of these facts are important.
+   On the basis of these assumptions, we can assert that both concepts and truth
+   claims are conventional in the broad sense that they depend on certain linguistic
+   conventions.
+   But we can also assert that these concepts and truth claims are not entirely
+   arbitrary.
+   In forming concepts, human beings make choices, but these choices are not
+   entirely arbitrary.
 
 ** On the nature of morality and moral reasoning
    :PROPERTIES:
